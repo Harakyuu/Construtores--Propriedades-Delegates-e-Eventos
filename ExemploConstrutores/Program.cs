@@ -13,35 +13,35 @@ namespace ExemploConstrutores
             mat.Somar();
             
             
-            // Operacao op = Calculadora.Somar;
-            // op += Calculadora.Subtrair;
-            // op.Invoke(30, 30);
+            Operacao op = Calculadora.Somar;
+            op += Calculadora.Subtrair;
+            op.Invoke(30, 30);
             
             
-            // const double pi = 3.14;
-            // System.Console.WriteLine(pi);
+            const double pi = 3.14;
+            System.Console.WriteLine(pi);
             
             
-            // Data data = new Data();
-            // data.setMes(20);
+            Data data = new Data();
+            data.setMes(20);
 
-            // data.Mes = 20;
+            data.Mes = 20;
 
-            // data.apresentarMes();
+            data.apresentarMes();
             
             
-            // Aluno a1 = new Aluno("Flavio", "Nishiyama", "Teste");
-            // a1.Apresentar();
+            Aluno a1 = new Aluno("Flavio", "Nishiyama", "Teste");
+            a1.Apresentar();
 
 
-            // Log log = Log.GetInstance();
-            // log.PropriedadeLog = "teste instancia";
+            Log log = Log.GetInstance();
+            log.PropriedadeLog = "teste instancia";
 
-            // Log log2 = Log.GetInstance();
-            // System.Console.WriteLine(log2.PropriedadeLog);
+            Log log2 = Log.GetInstance();
+            System.Console.WriteLine(log2.PropriedadeLog);
             
-            // Pessoa p1 = new Pessoa();
-            // p1.Apresentar();
+            Pessoa p1 = new Pessoa();
+            p1.Apresentar();
         }
     }
 }
