@@ -1,0 +1,16 @@
+C:\workspace\bootcamp Decola Tech 2a edição\Construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.exe
+C:\workspace\bootcamp Decola Tech 2a edição\Construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.deps.json
+C:\workspace\bootcamp Decola Tech 2a edição\Construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.runtimeconfig.json
+C:\workspace\bootcamp Decola Tech 2a edição\Construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.runtimeconfig.dev.json
+C:\workspace\bootcamp Decola Tech 2a edição\Construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.dll
+C:\workspace\bootcamp Decola Tech 2a edição\Construtores\ExemploConstrutores\bin\Debug\net5.0\ref\ExemploConstrutores.dll
+C:\workspace\bootcamp Decola Tech 2a edição\Construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.pdb
+C:\workspace\bootcamp Decola Tech 2a edição\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.csproj.AssemblyReference.cache
+C:\workspace\bootcamp Decola Tech 2a edição\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\bootcamp Decola Tech 2a edição\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.AssemblyInfoInputs.cache
+C:\workspace\bootcamp Decola Tech 2a edição\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.AssemblyInfo.cs
+C:\workspace\bootcamp Decola Tech 2a edição\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+C:\workspace\bootcamp Decola Tech 2a edição\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.dll
+C:\workspace\bootcamp Decola Tech 2a edição\Construtores\ExemploConstrutores\obj\Debug\net5.0\ref\ExemploConstrutores.dll
+C:\workspace\bootcamp Decola Tech 2a edição\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.pdb
+C:\workspace\bootcamp Decola Tech 2a edição\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.genruntimeconfig.cache
